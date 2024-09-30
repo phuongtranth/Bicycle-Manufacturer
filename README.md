@@ -1,4 +1,4 @@
- # [SQL] Explore Bicycle Manufacturer
+ # [SQL] Sales Performance Analysis
 ## I. Introduction
 This project analyzes a Bicycle Manufacturer's data using BigQuery. Eight queries examine sales, growth, territories, discounts, customer retention, inventory, and order statuses. The insights aim to inform strategic decisions and optimize operations across various aspects of the business.
 ## II. Dataset Access
